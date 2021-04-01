@@ -6,3 +6,6 @@ Some nice links I like:
 https://www.alexirpan.com/2018/02/14/rl-hard.html
 
 https://www.youtube.com/watch?v=fHNmRkzxHWs
+
+
+http://norvig.com/21-days.html#answers
