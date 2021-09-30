@@ -9,3 +9,6 @@ https://www.youtube.com/watch?v=fHNmRkzxHWs
 
 
 http://norvig.com/21-days.html#answers
+
+
+https://clustrmaps.com/site/1au7n
